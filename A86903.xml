@@ -1,0 +1,379 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The spirituall verses and prose of James Hunt, concerning angels of light, and angels of darknesse. Now if any many shall say, that some of my verses are not good verse, I hope he will acknowledge them to be good prose, therefore I say verses and prose: dedicated to the most honourable and High Court of Parliament.</title>
+            <author>Hunt, James, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86903</idno>
+            <idno type="STC">Wing H3737</idno>
+            <idno type="STC">Thomason E85_22</idno>
+            <idno type="STC">ESTC R22301</idno>
+            <idno type="EEBO-CITATION">99871698</idno>
+            <idno type="PROQUEST">99871698</idno>
+            <idno type="VID">124113</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86903)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124113)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E85[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The spirituall verses and prose of James Hunt, concerning angels of light, and angels of darknesse. Now if any many shall say, that some of my verses are not good verse, I hope he will acknowledge them to be good prose, therefore I say verses and prose: dedicated to the most honourable and High Court of Parliament.</title>
+                  <author>Hunt, James, 17th cent.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.H.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 18 1642.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Angels --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124113:1" rendition="simple:additions"/>
+            <p>THE SPIRITUALL Verſes and Proſe of JAMES HUNT, <hi>CONCERNING</hi> Angels of Light, and angels of darkneſſe.</p>
+            <p>Now if any man ſhall ſay, that ſome of my Verſes are not good Verſe, I hope he will acknowledge them to be good Proſe, there<g ref="char:EOLhyphen"/>fore I ſay Verſes and Proſe: Dedicated to the moſt Honourable and High Court of PARLIAMENT.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for J.H. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:124113:2"/>
+            <pb n="1" facs="tcp:124113:2"/>
+            <head>The Spirituall Verſes and Proſe of JAMES HUNT, concerning Angels of light, and Angels of darkneſſe.</head>
+            <div type="prose">
+               <p>
+                  <seg rend="decorInit">C</seg>Hriſt Jeſus, who is the perfect God, ſaith plainly, <hi>Rev.</hi> 3.5. <hi>He that overcometh, ſhall be cloathed in white raiment.</hi> The white raiment ſignifieth the righteouſneſſe of the Saints, as you may read <hi>Rev.</hi> 19.8. and the righteouſneſſe of the Saints ſignifi<g ref="char:EOLhyphen"/>eth the ſanctified ſoules of the people, which have their robes waſhed and made white in the blood of the lamb, <hi>Rev.</hi> 7.14. And their robes ſignifie the inward man of the hearts and minds of the people, which are waſhed and made white in the blood of our Lord and Saviour Jeſus Chriſt: I honour and glorifie his bleſſed name for ever.</p>
+            </div>
+            <div type="poem">
+               <lg>
+                  <l>
+                     <hi>But there is a black angell comes out of the Weſt,</hi>
+                  </l>
+                  <l>
+                     <hi>Which makes war againſt the white Angell that comes out of the Eaſt;</hi>
+                  </l>
+                  <l>
+                     <hi>But the devill hath blinded the black angell that he crnnot ſee far,</hi>
+                  </l>
+                  <l>
+                     <hi>But the white Angell proceedeth from Chriſt the bright morning ſtar,</hi>
+                  </l>
+                  <l>
+                     <hi>Againe the blacke angel he warres for the beaſt,</hi>
+                  </l>
+                  <l>
+                     <hi>But the white Angell will wound him in the breſt:</hi>
+                  </l>
+                  <l>
+                     <hi>For a two-edged ſword proceedeth out of his mouth,</hi>
+                  </l>
+                  <l>
+                     <hi>Whereby he will conquer the beaſt and all his darke angels from Eaſt, Weſt, North and South:</hi>
+                  </l>
+                  <l>
+                     <hi>But if the white Angell you do not know,</hi>
+                  </l>
+                  <l>
+                     <hi>He is a good archer, and drawes a ſtrong bow,</hi>
+                  </l>
+                  <l>
+                     <hi>To Wound the blacke angell that comes out of the Weſt,</hi>
+                  </l>
+                  <l>
+                     <hi>For he will place his ſharp arrowes deep in his breſt,</hi>
+                  </l>
+                  <l>
+                     <hi>So that he will wound him till he be dead,</hi>
+                  </l>
+                  <l>
+                     <hi>And with his ſharp ſword will out off his head.</hi>
+                  </l>
+                  <l>
+                     <hi>He is a good archer that ſtill hits the marke,</hi>
+                  </l>
+                  <l>
+                     <hi>For the Owle in the Ivie buſh ſits in the darke:</hi>
+                  </l>
+                  <l>
+                     <hi>But all her Ivie will be taken away,</hi>
+                  </l>
+                  <l>
+                     <hi>And then the ſmall Birds the Owle will bewray:</hi>
+                  </l>
+                  <pb n="2" facs="tcp:124113:3"/>
+                  <l>
+                     <hi>For the white Angell plainly doth ſee,</hi>
+                  </l>
+                  <l>
+                     <hi>The Owles Ivie ſignifieth her Librarie,</hi>
+                  </l>
+                  <l>
+                     <hi>By which ſhe hath blinded all the dark angels with the black evill,</hi>
+                  </l>
+                  <l>
+                     <hi>That they do not know the true God from the falſe devill,</hi>
+                  </l>
+                  <l>
+                     <hi>But the white Angell hath lighted his candle from the glory of the ſun,</hi>
+                  </l>
+                  <l>
+                     <hi>And therewith the Owles library will burn and conſume.</hi>
+                  </l>
+                  <l>
+                     <hi>Therefore all you dark angels take warning by me,</hi>
+                  </l>
+                  <l>
+                     <hi>To flie from falſe doctrine and hypocriſie,</hi>
+                  </l>
+                  <l>
+                     <hi>Which our glorious God ſo highly doth hate,</hi>
+                  </l>
+                  <l>
+                     <hi>For that cannot enter in at heaven gate.</hi>
+                  </l>
+                  <l>
+                     <hi>For all thoſe that ſhalbe welcome to the marriage day,</hi>
+                  </l>
+                  <l>
+                     <hi>They muſt be all cloathed in white array:</hi>
+                  </l>
+                  <l>
+                     <hi>I pray underſt and and mark what I ſay,</hi>
+                  </l>
+                  <l>
+                     <hi>You muſt caſt all your old garments quite away:</hi>
+                  </l>
+                  <l>
+                     <hi>I meane all your own righteouſneſſe which is of the old Law,</hi>
+                  </l>
+                  <l>
+                     <hi>For S. Paul will be true, though his face you nere ſaw,</hi>
+                  </l>
+                  <l>
+                     <hi>But his words do abide, and ſtill ſhall remaine,</hi>
+                  </l>
+                  <l>
+                     <hi>Which ſaith, if righteouſneſſe come by the Law Chriſt died in vaine,</hi> 
+                     <note place="margin">Gal. 2.21.</note>
+                  </l>
+                  <l>
+                     <hi>For all the righteouſneſſe that pleaſeth God well,</hi>
+                  </l>
+                  <l>
+                     <hi>Proceedeth from Ieſus Chriſt in the Goſpell:</hi>
+                  </l>
+                  <l>
+                     <hi>And all thoſe that with it ſhalbe cloathed Chriſt wil preſent them compleat,</hi>
+                  </l>
+                  <l>
+                     <hi>Before Gods holy and glorious ſeat:</hi>
+                  </l>
+                  <l>
+                     <hi>I do not lie, but I tell you true,</hi>
+                  </l>
+                  <l>
+                     <hi>He that ſits upon the throne ſaith I make all now.</hi>
+                  </l>
+                  <l>
+                     <hi>All glory be to God on high,</hi>
+                  </l>
+                  <l>
+                     <hi>And to the Son eternally,</hi>
+                  </l>
+                  <l>
+                     <hi>And to the Holy Ghoſt likewiſe,</hi>
+                  </l>
+                  <l>
+                     <hi>Whoſe glory far ſurmounts the skies.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="prose">
+               <p>The Apoſtle S. <hi>Paul</hi> ſaith plainly, <hi>Heb.</hi> 12.22. <hi>Ye are come to mount Sion, and to the heavenly Ieruſalem, and to an innumerable com<g ref="char:EOLhyphen"/>pany of Angels:</hi> If the Apoſtle ſhould have ſaid, we ſhall come to theſe things, that would have ſignified that which is to come; but he ſaith plainly, we are come to them, which doth ſignifie that which is now preſent: For I underſtand and ſhall prove the heavenly Je<g ref="char:EOLhyphen"/>ruſalem plainly ſignifieth Chriſt and his glorious Church: for God gave Chriſt to be head over all things to the Church which is his bo<g ref="char:EOLhyphen"/>dy, the fulneſſe of him that filleth all in all, <hi>Eph.</hi> 1.22. For Chriſt and his Church is as man and wife, as I prove, <hi>Eph.</hi> 5.31. For a man ſhall
+<pb n="3" facs="tcp:124113:3"/>leave father and mother, and be joyned to his wife, and they two ſhall be one fleſh: this is a great myſtery, but I ſpeak concerning Chriſt and the Church; for we are members of his body, of his fleſh, and of his bone, Verſ. 30. For Jeruſalem which is above is free, which is the mother of us all, <hi>Gal.</hi> 4. Thus I have proved in brief the heavenly Jeruſalem ſignifieth Chriſt and his glorious Church. Again, we are come to an innumerable company of Angels: I underſtand all the peo<g ref="char:EOLhyphen"/>ple in this world are Angels of light, or angels of darkneſſe: for all thoſe people that are held under the old Law, and falſe doctrines of carnall men, they are held under the bondage and captivity of the di<g ref="char:EOLhyphen"/>vell, and are thereby made angels of darkneſſe. But on the other ſide, all thoſe people that ſhall turn away from the old law and falſe do<g ref="char:EOLhyphen"/>ctrines, and be reconciled to Chriſt, and to the obedience of his word which is revealed in his Goſpell, they ſhalbe joyned to the glorious body of Chriſt, and thereby made all Angels of light.</p>
+            </div>
+            <div type="poem">
+               <lg>
+                  <l>
+                     <hi>For now God of his great power (all people ſhall ſee)</hi>
+                  </l>
+                  <l>
+                     <hi>That he doth not tie himſelfe to the art of ſchollerſhip which the Cler<g ref="char:EOLhyphen"/>gie have been taught in the Vniverſity.</hi>
+                  </l>
+                  <l>
+                     <hi>For there is no man can be a true and ſound Interpreter of Gods Word,</hi>
+                  </l>
+                  <l>
+                     <hi>But God muſt give him a powerfull two-edged ſword:</hi>
+                  </l>
+                  <l>
+                     <hi>That is truly for to divide</hi>
+                  </l>
+                  <l>
+                     <hi>Betwixt the heavenly Bridegroom, and the helliſh bride.</hi>
+                  </l>
+                  <l>
+                     <hi>But will you know what Bride I meane?</hi>
+                  </l>
+                  <l>
+                     <hi>The blind and falſe Church, which ſaith in her heart I ſit a queene.</hi>
+                  </l>
+                  <l>
+                     <hi>But now all thoſe people that in true judgment ſhall ſit,</hi>
+                  </l>
+                  <l>
+                     <hi>They may behold the King and Queen of glory and wit:</hi>
+                  </l>
+                  <l>
+                     <hi>I meane Chriſt and his Church which is from above,</hi>
+                  </l>
+                  <l>
+                     <hi>Who is King and Queen of glory and love.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="prose">
+               <p>For God is love, and he that dwelleth in love, dwelleth in God, and God in him: for the Spirit of God drawes but one way, that is, to Chriſt, and to the obedience of his glorious Goſpell, that they may reigne with him in glory for ever. It is written <hi>Eph.</hi> 5.13. All things that are reproved are made manifeſt by the light. Now by that glorious light God hath given unto me, I underſtand there are a people called Anabaptiſts, that will not ſuffer young children to be baptized till they come to yeers of underſtanding, but by the help of God I ſhall prove by humane reaſon, and ſpirituall ſignifications of Scripture, that they are very much deceived in their judgement; for the law having a ſhadow of things to come, <hi>Heb.</hi> 10. I underſtand,
+<pb n="4" facs="tcp:124113:4"/>the old Law was a type and ſhadow of the new: for S. <hi>Paul</hi> ſaith plainly, 1 <hi>Cor.</hi> 10.2. They were baptized to <hi>Moſes</hi> in the cloud: the cloud ſignifieth the old Law, and Circumciſion was a type of Bap<g ref="char:EOLhyphen"/>tiſme: and we do know children were circumciſed at eight dayes old. Againe I find it written <hi>Acts</hi> 2. when the Apoſtle told the Jewes that they had killed the Lord of life, they were pricked in their hearts, and ſaid, Men and brethren, What ſhall we do? <hi>Peter</hi> ſaid unto them, Repent and be baptized, and ye ſhall receive the gifts of the Holy Ghoſt: for the promiſe is unto you, and to your chil<g ref="char:EOLhyphen"/>dren: Mark this point I beſeech you the Apoſtle ſaith plainly, the promiſe is unto you, and unto your children.</p>
+               <p>This place of Scripture doth plainely prove, that all children of faithfull people are to be baptized to the body of Chriſt; againe, I finde it written, <hi>Acts</hi> 16. concerning the Jaylo and <hi>Lydia,</hi> which were converted by the Apoſtles: for the jayler it is ſaid, he and all his were baptized; againe, for <hi>Lydia</hi> it is ſaid, ſhe and all her houſehould were baptized; now what man is able to gaineſay, but that thoſe two perſons might have young children belonging to them, againe, Chriſt ſaith, Suffer little children to come unto me, and forbid them not, for to ſuch belongeth the Kingdome of God, marke this point, I beſeech you, for Chriſt ſaith plainely, the Kingdome of God be<g ref="char:EOLhyphen"/>longeth to young children: and Chriſt and his Church, ſignifieth, Chriſt and his Kingdome, therefore all thoſe that will not ſuffer young children to be baptized, they do ſhut them out from the King<g ref="char:EOLhyphen"/>dome of God, againe, if there be any man can prove by Scripture, that Chriſt or any of the Apoſtles have forbid, ſaying, young chil<g ref="char:EOLhyphen"/>dren muſt not be baptized: I will be of their judgement: or if they can prove by Scripture that it is againſt the word and will of God, to have young children baptized, I will be of their minds: againe, if I aske any of them if they believe the baptiſme with water doth be<g ref="char:EOLhyphen"/>long to the body of Chriſt, and to the ſecond Covenant of grace, they will ſay yea, then I ſay plainely, thoſe people that will not ſuf<g ref="char:EOLhyphen"/>fer young children to be baptized, they doe exclude them from the body of Chriſt, and doe prove, they have no right to the ſecond Co<g ref="char:EOLhyphen"/>venant of grace, I pray God give all ſuch people grace to turne away from that wicked practice, for feare they draw downe the wrath of God upon their owne ſoules: thus I praiſe God I have proved by humane reaſon and ſpirituall ſignifications of Scripture, that young children are to be baptized to the glorious body of Ieſus Chriſt; It is
+<pb n="5" facs="tcp:124113:4"/>written, <hi>Iohn</hi> 16.13. Chriſt ſaith plainely, when he the ſpirit of truth is come, he will guide you into all truth; he ſhall glorifie me, for he ſhall receive of mine, and ſhall ſhew it unto you: Mark I be<g ref="char:EOLhyphen"/>ſeech you the commanding power of God: for Chriſt Ieſus who is the perfect God, he ſaith plainely, the ſpirit of truth ſhall receive of his, and ſhall ſhew it unto you: wherefore by the helpe and power of God I will ſhew the right honourable and high Court of Parlia<g ref="char:EOLhyphen"/>ment a plain and perfect way how they may eſtabliſh true and ſound Religion in a ſhort time: for here are 4. Religions in this Land: the Proteſtant, the Papiſt, the Browniſt, and the Anabaptiſt, and all theſe differ one from another, now if the honourable high Court of Parli<g ref="char:EOLhyphen"/>ament will be pleaſed to requeſt the ableſt men of each ſort of theſe 4. religions to write their judgement in briefe concerning the ſigni<g ref="char:EOLhyphen"/>fication of Chriſt his glorious Church with the holy ordinances that belongeth to it, to ſhow how children are to be baptized, and how the Bread and Wine is to be adminiſtred, and for marriage man with woman, and for the buriall of the dead, and of Church Government, and I by Gods helpe will doe the like.</p>
+               <p>If their be any Proteſtant, Papiſt, Browniſt or Anabaptiſt, that can be able to ſhew and ſet forth the ſignification of Chriſt and his glorious Church, with thoſe holy Ordinances that belonge unto it, in a plainer, and clearer, and briefer way then I by Gods helpe ſhall doe, my ſoule ſhall rejoyce to ſee that man, and I will be of his reli<g ref="char:EOLhyphen"/>gion, if it ſhall appeare ſoe to be by the judgement of the high Court of Parliament, whom God (I hope) hath gathered together for the triall of the ſpirits, wherefore I moſt humbly beſeech you for to ob<g ref="char:EOLhyphen"/>ſerve the councell of our Lord and Saviour Jeſus Chriſt, which ſaith, firſt ſeeke the Kingdome of God and the righteouſneſſe thereof, and then all things ſhall be added unto you (now I underſtand there are a<g ref="char:EOLhyphen"/>boundance of people that long and deſire for peace: but I ſay plainely and truely, God hath drawne his powerfull Sword that here will be no true and ſound peace in <hi>England,</hi> till true and ſound religion be eſtabliſhed agreeable to the word of God, which is revealed in the Goſpell of peace, wherefore I, <hi>Iames Hunt,</hi> a Miniſter and Meſſen<g ref="char:EOLhyphen"/>ger of Ieſus Chriſt, doe humbly beſeech all good people that love Chriſt and his glorious Goſpell, that you will ſtirre up the hearts and mindes of the honourable high Court of Parliament, for to eſtabliſh true and ſound Religion, and then you need not doubt but God will powre downe his bleſſings upon you, both ſpirituall and temporall,
+<pb n="6" facs="tcp:124113:5"/>wherefore I humbly beſeech you prolonge not the time with my po<g ref="char:EOLhyphen"/>werfull God, leaſt you provoke him to anger, and ſo he may ſmite you with his wrathfull Rod.</p>
+            </div>
+            <div type="poem">
+               <lg>
+                  <l>
+                     <hi>For I have bin this ſeaven yeares day,</hi>
+                  </l>
+                  <l>
+                     <hi>Beſeeching the Clergie and higher powers to heare what I would ſay:</hi>
+                  </l>
+                  <l>
+                     <hi>But for the true love to them I beare;</hi>
+                  </l>
+                  <l>
+                     <hi>To hate and puniſh me they doe not ſpare;</hi>
+                  </l>
+                  <l>
+                     <hi>Becauſe that I would ſhew them the way,</hi>
+                  </l>
+                  <l>
+                     <hi>For to come unto the marriage day:</hi>
+                  </l>
+                  <l>
+                     <hi>For now the Bridegroome and the Bride,</hi>
+                  </l>
+                  <l>
+                     <hi>Heaven Gates they have ſet open wide;</hi>
+                  </l>
+                  <l>
+                     <hi>I meane thoſe Parrables ſo darke,</hi>
+                  </l>
+                  <l>
+                     <hi>By truely ſounding on the harp:</hi>
+                  </l>
+                  <l>
+                     <hi>But the Divell and all his darke Angels they ſtrive and labour with might and maine</hi>
+                  </l>
+                  <l>
+                     <hi>For to ſhut up the Gates againe.</hi>
+                  </l>
+                  <l>
+                     <hi>But my glorious God by his great power;</hi>
+                  </l>
+                  <l>
+                     <hi>He will confound them in one houre.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="prose">
+               <p>For I praiſe God he hath given me an underſtanding to know him that is true, and I glorifie the name of God I am in him that is true, even in his Son Jeſus Chriſt: this is the true God and eternail life, I in him, and he in me, by the divine power of his word, in his glorious Goſpell which liveth in me, I honour and glorifie the name of God our glorious father for ever, and Chriſt Ieſus our Mediator and Re<g ref="char:EOLhyphen"/>deemer, with the holy Ghoſt who is our loving Comforter, 3 glori<g ref="char:EOLhyphen"/>ous perſons, yet but one God, for as they cannot be divided, no more cannot the true Church be divided from them 3. unto whom be all praiſe, honour, glory, power, might, dominion and majeſtie, both now and evermore, world without end, Amen.</p>
+               <p>And ſo God ſave the King and Queene, and their royall ſeed, with all the Nobility &amp; commonalty of this Land, and give them al under<g ref="char:EOLhyphen"/>ſtanding from above, that they may be reconciled to Chriſt, and to the obedience of his word, that they may reigne with him in glory here in this world, and in the world to come, world without end, Amen.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
